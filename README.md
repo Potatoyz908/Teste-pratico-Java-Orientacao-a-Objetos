@@ -1,2 +1,2 @@
 # Teste-pratico-Java-Orientacao-a-Objetos
- Teste prático para vaga de estágio.
+Este repositório contém a solução para o teste prático - Java - Orientação a Objetos para a vaga de estágio.
